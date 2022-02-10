@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @camilucpeli
+- 👀 I’m interested in backend development, DevOps and SCRUM practices.
+- 🌱 I’m currently learning ASP .Net Core.
+- 💞️ I’m looking to collaborate on web backend with .Net (C#).
+- 📫 How to reach me https://www.linkedin.com/in/camiluc-peli/
